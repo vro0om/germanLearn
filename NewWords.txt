@@ -1,1 +1,2 @@
 weinen:to cry
+wenig : little
